@@ -1,8 +1,12 @@
+Build.PL
 Changes
+Changes.md
 LICENSE
 MANIFEST
-Makefile.PL
-README
+README.md
+SECURITY.md
 examples/numbers.pl
 lib/Convert/Number/Coptic.pm
 t/numbers.t
+META.yml
+META.json
